@@ -1,4 +1,4 @@
-/*Write a program to find the factorial of a number using Stack
+/*Write a program to find the factorial of a number using Stack*/
 #include<stdio.h>
 #include<stdlib.h>
 #define size 100
