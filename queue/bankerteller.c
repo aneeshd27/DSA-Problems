@@ -1,3 +1,4 @@
+/*Write a program to simulate the banker teller operation in C */
 #include <stdio.h>
 #include <stdlib.h>
 
